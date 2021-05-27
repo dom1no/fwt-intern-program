@@ -9,7 +9,7 @@
     - остальных - красным
 
 ### Изучить:
-- [Accessors and mutators](https://laravel.com/docs/5.8/eloquent-mutators)
+- [Accessors and mutators](https://laravel.com/docs/8.x/eloquent-mutators)
 
 ---
 [6. Журнал оценок](mission-6.md) ← | → [8. Авторизация и профиль студента](mission-8.md)
