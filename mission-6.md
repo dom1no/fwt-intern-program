@@ -6,8 +6,8 @@
     - средним баллом по предмету среди всех студентов группы
 
 ### Изучить:
-- [Collections](https://laravel.com/docs/5.8/collections)
-- [Eloquent: Collections](https://laravel.com/docs/5.8/eloquent-collections#available-methods)
+- [Collections](https://laravel.com/docs/8.x/collections)
+- [Eloquent: Collections](https://laravel.com/docs/8.x/eloquent-collections)
 
 ---
 [5. Bootstrap](mission-5.md) ← | → [7. Списки отличников и хорошистов](mission-7.md)
