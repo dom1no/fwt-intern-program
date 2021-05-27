@@ -10,7 +10,7 @@
     - по названию
 
 ### Изучить:
-- [Query Scopes](https://laravel.com/docs/7.x/eloquent#query-scopes)
+- [Query Scopes](https://laravel.com/docs/8.x/eloquent#query-scopes)
 
 ---
 [8. Авторизация и профиль студента](mission-8.md) ← | → [10. Аватар студента](mission-10.md)
