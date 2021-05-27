@@ -23,7 +23,7 @@
 - использовать FormRequest для валидации
 - использовать пагинацию для списков
 - использовать именованные роуты
-- установить Laravel Telescope для отладки
+- установить Laravel Debugbar и Laravel Telescope для отладки
 
 ### Изучить:
 - [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions)
