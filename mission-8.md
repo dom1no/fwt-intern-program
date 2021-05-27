@@ -13,8 +13,8 @@
     - страница с формой редактирования своих данных
 
 ### Изучить:
-- [Accessors and mutators](https://laravel.com/docs/5.8/eloquent-mutators)
-- [Authentication](https://laravel.com/docs/7.x/authentication)
+- [Accessors and mutators](https://laravel.com/docs/8.x/eloquent-mutators)
+- [Authentication](https://laravel.com/docs/8.x/authentication)
 
 ---
 [7. Списки отличников и хорошистов](mission-7.md) ← | → [9. Фильтры в списках](mission-9.md)
